@@ -1,0 +1,5 @@
+c:\users\gustavoadolfo\documents\visual studio 2012\Projects\WcfSuma\WcfSuma\bin\WcfSuma.dll
+c:\users\gustavoadolfo\documents\visual studio 2012\Projects\WcfSuma\WcfSuma\bin\WcfSuma.pdb
+c:\users\gustavoadolfo\documents\visual studio 2012\Projects\WcfSuma\WcfSuma\obj\Debug\WcfSuma.csprojResolveAssemblyReference.cache
+c:\users\gustavoadolfo\documents\visual studio 2012\Projects\WcfSuma\WcfSuma\obj\Debug\WcfSuma.dll
+c:\users\gustavoadolfo\documents\visual studio 2012\Projects\WcfSuma\WcfSuma\obj\Debug\WcfSuma.pdb

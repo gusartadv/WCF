@@ -1,0 +1,4 @@
+c:\users\gustavoadolfo\documents\visual studio 2012\Projects\ConsumeSumaWCF\ConsumeSumaWCF\bin\ConsumeSumaWCF.dll
+c:\users\gustavoadolfo\documents\visual studio 2012\Projects\ConsumeSumaWCF\ConsumeSumaWCF\bin\ConsumeSumaWCF.pdb
+c:\users\gustavoadolfo\documents\visual studio 2012\Projects\ConsumeSumaWCF\ConsumeSumaWCF\obj\Debug\ConsumeSumaWCF.dll
+c:\users\gustavoadolfo\documents\visual studio 2012\Projects\ConsumeSumaWCF\ConsumeSumaWCF\obj\Debug\ConsumeSumaWCF.pdb
